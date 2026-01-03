@@ -8,11 +8,18 @@ It includes scripts for **training the model** and **running inference on custom
 
 * Deep CNN with Batch Normalization and Dropout
 * Data Augmentation for improved generalization
-* ~85–90% test accuracy on CIFAR-10
 * Simple inference script for custom images
 * Clean and beginner-friendly project structure
 
 ---
+## Training Accuracy
+
+The following figure shows the training and validation accuracy and loss
+over multiple epochs on the CIFAR-10 dataset.
+
+<p align="center">
+  <img src="accuracy.jpg" width="800">
+</p>
 
 ## CIFAR-10 Classes
 
