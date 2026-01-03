@@ -101,20 +101,6 @@ The image will be displayed using Matplotlib.
 | Channels      | RGB (3)                      |
 | Normalization | Pixel values in range [0, 1] |
 
----
-
-## Model Architecture (Overview)
-
-* Multiple convolutional blocks consisting of:
-
-  * Conv2D
-  * Batch Normalization
-  * MaxPooling
-  * Dropout
-* Fully connected dense layer
-* Softmax output layer for 10-class classification
-
-This architecture balances **accuracy and generalization** while reducing overfitting.
 
 ---
 
