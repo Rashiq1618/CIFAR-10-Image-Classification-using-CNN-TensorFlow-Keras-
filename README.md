@@ -37,7 +37,7 @@ Dog, Frog, Horse, Ship, Truck
 ├── train_model.py          # Train the CNN model
 ├── run_model.py            # Run inference on a custom image
 ├── cifar10_super_model.h5  # Trained model (generated after training)
-├── deer.jpg, car.jpg etc                # Sample input images
+├── deer.jpg, car.jpg etc   # Sample input images
 ├── README.md               # Project documentation
 ```
 
