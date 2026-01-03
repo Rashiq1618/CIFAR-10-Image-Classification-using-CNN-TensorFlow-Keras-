@@ -3,15 +3,6 @@ This repository implements a **high-accuracy Convolutional Neural Network (CNN)*
 It includes scripts for **training the model** and **running inference on custom images**.
 
 ---
-
-## Features
-
-* Deep CNN with Batch Normalization and Dropout
-* Data Augmentation for improved generalization
-* Simple inference script for custom images
-* Clean and beginner-friendly project structure
-
----
 ## Training Accuracy
 
 The following figure shows the training and validation accuracy and loss
