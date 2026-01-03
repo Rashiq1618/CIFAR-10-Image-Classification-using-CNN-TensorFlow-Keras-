@@ -18,7 +18,7 @@ The following figure shows the training and validation accuracy and loss
 over multiple epochs on the CIFAR-10 dataset.
 
 <p align="center">
-  <img src="accuracy.jpg" width="800">
+  <img src="accuracy.jpeg" width="800">
 </p>
 
 ## CIFAR-10 Classes
