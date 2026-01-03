@@ -1,5 +1,4 @@
- CIFAR-10 Image Classification using Deep CNN
-
+🖼️ CIFAR-10 Image Classification using Deep CNN
 This repository implements a **high-accuracy Convolutional Neural Network (CNN)** trained on the **CIFAR-10 dataset** using **TensorFlow/Keras**.
 It includes scripts for **training the model** and **running inference on custom images**.
 
