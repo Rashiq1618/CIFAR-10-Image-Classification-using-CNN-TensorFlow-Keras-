@@ -4,7 +4,7 @@ It includes scripts for **training the model** and **running inference on custom
 
 ---
 
-## 📌 Features
+## Features
 
 * Deep CNN with Batch Normalization and Dropout
 * Data Augmentation for improved generalization
@@ -14,7 +14,7 @@ It includes scripts for **training the model** and **running inference on custom
 
 ---
 
-## 🧠 CIFAR-10 Classes
+## CIFAR-10 Classes
 
 ```
 Plane, Car, Bird, Cat, Deer,
@@ -23,7 +23,7 @@ Dog, Frog, Horse, Ship, Truck
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 .
@@ -36,7 +36,7 @@ Dog, Frog, Horse, Ship, Truck
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository
 
@@ -49,7 +49,7 @@ pip install tensorflow numpy matplotlib opencv-python
 
 ---
 
-## 🚀 Train the Model
+## Train the Model
 
 Run the training script:
 
@@ -66,7 +66,7 @@ During training:
 
 ---
 
-## ▶️ Run Inference
+## Run Inference
 
 1. Place a **32×32 RGB image** in the project directory
 2. Update the image filename in `run_model.py` if necessary
@@ -86,7 +86,7 @@ The image will be displayed using Matplotlib.
 
 ---
 
-## 📐 Image Input Requirements
+## Image Input Requirements
 
 | Property      | Value                        |
 | ------------- | ---------------------------- |
@@ -96,7 +96,7 @@ The image will be displayed using Matplotlib.
 
 ---
 
-## 🏗️ Model Architecture (Overview)
+## Model Architecture (Overview)
 
 * Multiple convolutional blocks consisting of:
 
@@ -111,7 +111,7 @@ This architecture balances **accuracy and generalization** while reducing overfi
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 * The model is trained on **small 32×32 CIFAR-10 images**
 * Performance may be limited on real-world, high-resolution images
