@@ -1,9 +1,5 @@
 # CIFAR-10-Image-Classification-using-CNN-TensorFlow-Keras-
 High-accuracy CIFAR-10 image classification using a deep CNN with TensorFlow/Keras, including training and inference scripts.
-Here is the **final, clean, copy-paste-ready `README.md`**.
-You can paste this **directly into GitHub** without changing anything.
-
----
 
 # 🖼️ CIFAR-10 Image Classification using Deep CNN
 
